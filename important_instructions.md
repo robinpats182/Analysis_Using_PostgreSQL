@@ -1,0 +1,2 @@
+- Dataset encoding was LATIN1, not UTF-8
+- Resolved using PostgreSQL COPY with ENCODING 'LATIN1'

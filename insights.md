@@ -1,0 +1,3 @@
+- The UK contributes over 80% of total revenue
+- A small number of products drive most sales (Pareto principle)
+- Sales peak in November and December
